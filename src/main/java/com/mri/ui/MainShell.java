@@ -13,7 +13,7 @@ public class MainShell {
             System.out.println("Bienvenue au Cabinet");
             System.out.println("1. Gérer les Patients");
             System.out.println("2. Gérer les Médecins");
-            System.out.println("2. Gérer les consultations");
+            System.out.println("3. Gérer les consultations");
             System.out.println("0. Quitter");
 
             System.out.print("Choisissez une option: ");
